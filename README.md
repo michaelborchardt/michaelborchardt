@@ -6,6 +6,4 @@ I began programming with the C language in 2010. I have expanded to using a few 
 
 I have experience writing client and server-side code for business-grade web applications. Furthermore, I also have experience with web application security testing. 
 
-I have a fundamental understanding of how to construct secure network infrastructure.
-
-Currently, I am working on being better at writing code in assembly, information security best practices, web application security, and web application development. 
+Currently, I am working on being better at writing code in assembly.
