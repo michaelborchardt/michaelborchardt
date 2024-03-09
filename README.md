@@ -8,6 +8,4 @@ I have experience writing client and server-side code for business-grade web app
 
 I have a fundamental understanding of constructing secure network infrastructure. While I don't have a degree in Information Technology, I have a quality understanding of how information security works. 
 
-Also, I have experience with penetration testing web applications. 
-
 Currently, I am working on being better at writing code in assembly, information security best practices, web application security, and web application development. 
